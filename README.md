@@ -53,26 +53,7 @@ Documentation
  - Systematically categorized the analysis into six key questions
 
 ## Project Insights
-1). Market Cap
-there are significant fluctuations, with notable growth in recent years, except for periods of decline due to economic downturns
-2). Earnings
-shown steady improvement, with positive year-over-year changes supported by consistent revenue generation
-3). P/E Ratios
-Highlighted varying investor sentiment and market valuation changes, emphasizing the importance of historical context
-4). Debt and Assets
-highlighted McDonald’s strategic financing decisions, while Net Asset Growth revealed areas of financial strain
-5). Dividend Yield
-Reflected consistent shareholder returns, showcasing McDonald’s commitment to rewarding investors even during challenging times
-6). Operating Margins
-Showed operational efficiency trends, identifying areas of improvement in cost management and profitability
+The review highlights a volatile market cap, sustained earnings improvements, shifts in P/E ratios, effective but strained financial strategies, reliable dividend payouts, and efficient operations
 
 ## Final Conclusion
-The analysis of McDonald’s financial data (2002–2022) reveals:
-1). Market Strength
-Consistent growth in valuation despite economic shifts
-2). Earnings & Dividends
-Steady growth and strong shareholder returns
-3). Debt & Assets 
-Strategic debt management with challenges in asset efficiency
-4). Operational Efficiency
-Strong focus on cost management and profitability
+McDonald’s financial analysis (2002–2022) underscores steady market expansion, robust earnings, reliable shareholder returns, strategic debt handling, and effective cost management, though asset utilization remains a challenge
