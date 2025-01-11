@@ -1,5 +1,5 @@
 # McDonalds-financial-analysis-2002-2022
-I analyzed McDonald's financial data (2002-2022) using key metrics like market cap, earnings, and P/E ratio. Using Power Query and Power Pivot, I generated insights into financial trends and performance, sourced from McDonald's financial statements on Kaggle
+Analyze McDonald's financial performance (2002-2022) across six key areas to evaluate historical trends, y-o-y growth, and long-term averages
 ## Project Source
 <a href="https://www.kaggle.com/datasets/mikhail1681/mcdonalds-financial-statements-2002-2022">McDonald's Financial Statements (2002–2022) - Kaggle<a/>
 ## Dataset used
