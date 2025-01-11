@@ -8,17 +8,17 @@ I analyzed McDonald's financial data (2002-2022) using key metrics like market c
 ## Questions Addressed (KPIs)
 1). Market Cap Analysis
  - What is the average Market Cap over the last 5 years?
- - How has the Market Cap changed year-over-year?
+ - How has the Market Cap changed y-o-y?
  - What is the Market Cap to Revenue Ratio for each year?
 
 2). Earnings Analysis
  - What is the Earnings Per Share (EPS) for each year?
  - What is the average EPS over the last 3 years?
- - How have Earnings changed year-over-year?
+ - How have Earnings changed y-o-y?
 
 3). P/E and Other Ratios
  - What is the P/E Ratio for each year?
- - How has the P/E Ratio changed year-over-year?
+ - How has the P/E Ratio changed y-o-y?
  - What is the average P/E Ratio for the last 5 years?
 
 4). Debt and Assets
@@ -28,7 +28,7 @@ I analyzed McDonald's financial data (2002-2022) using key metrics like market c
 
 5). Dividend Analysis
  - What is the average Dividend Yield over the last 5 years?
- - How has the Dividend Yield changed year-over-year?
+ - How has the Dividend Yield changed y-o-y?
 
 6). Operating Margin Analysis
  - What is the Operating Margin for each year?
