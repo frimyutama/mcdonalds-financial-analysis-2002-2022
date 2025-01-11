@@ -35,10 +35,6 @@ Analyze McDonald's financial performance (2002-2022) across six key areas to eva
  - What is the average Operating Margin over the last 3 years?
 
 ## Process
-Data Preparation
- - Imported and cleaned the financial dataset for consistency
- - Created Power Pivot measures for key metrics
-
 Analysis Steps
  - Developed DAX formulas for each metric
  - Formatted measures to enhance readability (decimal, percentage, etc.)
