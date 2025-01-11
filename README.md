@@ -5,7 +5,7 @@ I analyzed McDonald's financial data (2002-2022) using key metrics like market c
 ## Dataset used
 <a href="https://github.com/frimyutama/mcdonalds-financial-analysis-2002-2022/blob/main/McD%20Finstat.xlsx">Dataset<a/>
 
-## Questions Addressed
+## Questions Addressed (KPIs)
 1). Market Cap Analysis
  - What is the average Market Cap over the last 5 years?
  - How has the Market Cap changed year-over-year?
