@@ -6,12 +6,12 @@ Analyze McDonald's financial performance (2002-2022) across six key areas to eva
 <a href="https://github.com/frimyutama/mcdonalds-financial-analysis-2002-2022/blob/main/McD%20Finstat.xlsx">Dataset<a/>
 
 ## Questions Addressed (KPIs)
-1). Market Cap Analysis
+1). Market Cap
  - What is the average Market Cap over the last 5 years?
  - How has the Market Cap changed y-o-y?
  - What is the Market Cap to Revenue Ratio for each year?
 
-2). Earnings Analysis
+2). Earnings
  - What is the Earnings Per Share (EPS) for each year?
  - What is the average EPS over the last 3 years?
  - How have Earnings changed y-o-y?
@@ -26,11 +26,11 @@ Analyze McDonald's financial performance (2002-2022) across six key areas to eva
  - What is the Net Asset Growth compared to the previous year?
  - What is the Total Liabilities to Total Assets Ratio for each year?
 
-5). Dividend Analysis
+5). Dividend
  - What is the average Dividend Yield over the last 5 years?
  - How has the Dividend Yield changed y-o-y?
 
-6). Operating Margin Analysis
+6). Operating Margin
  - What is the Operating Margin for each year?
  - What is the average Operating Margin over the last 3 years?
 
