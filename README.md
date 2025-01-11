@@ -1,5 +1,5 @@
 # McDonalds-financial-analysis-2002-2022
-Analyze McDonald's financial performance (2002-2022) across six key areas to evaluate historical trends, y-o-y growth, and long-term averages
+Analyze McDonald's financial performance (2002-2022) across six key areas to evaluate historical trends, y-o-y growth, and long-term averages with aims to provide actionable insights into financial health and operational efficiency using clear visualizations and data-driven metrics
 ## Project Source
 <a href="https://www.kaggle.com/datasets/mikhail1681/mcdonalds-financial-statements-2002-2022">McDonald's Financial Statements (2002–2022) - Kaggle<a/>
 ## Dataset used
