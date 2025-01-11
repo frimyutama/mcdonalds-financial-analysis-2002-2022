@@ -53,16 +53,26 @@ Documentation
  - Systematically categorized the analysis into six key questions
 
 ## Project Insights
-Market Cap: there are significant fluctuations, with notable growth in recent years, except for periods of decline due to economic downturns
-Earnings: shown steady improvement, with positive year-over-year changes supported by consistent revenue generation
-P/E Ratios: Highlighted varying investor sentiment and market valuation changes, emphasizing the importance of historical context
-Debt and Assets: highlighted McDonald’s strategic financing decisions, while Net Asset Growth revealed areas of financial strain
-Dividend Yield: Reflected consistent shareholder returns, showcasing McDonald’s commitment to rewarding investors even during challenging times
-Operating Margins: Showed operational efficiency trends, identifying areas of improvement in cost management and profitability
+1). Market Cap
+there are significant fluctuations, with notable growth in recent years, except for periods of decline due to economic downturns
+2). Earnings
+shown steady improvement, with positive year-over-year changes supported by consistent revenue generation
+3). P/E Ratios
+Highlighted varying investor sentiment and market valuation changes, emphasizing the importance of historical context
+4). Debt and Assets
+highlighted McDonald’s strategic financing decisions, while Net Asset Growth revealed areas of financial strain
+5). Dividend Yield
+Reflected consistent shareholder returns, showcasing McDonald’s commitment to rewarding investors even during challenging times
+6). Operating Margins
+Showed operational efficiency trends, identifying areas of improvement in cost management and profitability
 
 ## Final Conclusion
 The analysis of McDonald’s financial data (2002–2022) reveals:
-Market Strength: Consistent growth in valuation despite economic shifts
-Earnings & Dividends: Steady growth and strong shareholder returns
-Debt & Assets: Strategic debt management with challenges in asset efficiency
-Operational Efficiency: Strong focus on cost management and profitability
+1). Market Strength
+Consistent growth in valuation despite economic shifts
+2). Earnings & Dividends
+Steady growth and strong shareholder returns
+3). Debt & Assets 
+Strategic debt management with challenges in asset efficiency
+4). Operational Efficiency
+Strong focus on cost management and profitability
